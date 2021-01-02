@@ -1,0 +1,3 @@
+[submodule "theme_package"]
+	path = theme_package
+	url = https://githubstuff@github.com/GitHubStuff/theme_package.git
